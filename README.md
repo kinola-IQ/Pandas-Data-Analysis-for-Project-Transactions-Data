@@ -1,4 +1,4 @@
-# data-analysis-project-with-python
+# Explorative-data-analysis-project-with-python
 EDA of a retail dataset
 
 READ IN DATA FROM MULTIPLE CSV FILES
