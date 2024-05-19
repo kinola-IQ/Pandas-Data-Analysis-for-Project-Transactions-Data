@@ -1,5 +1,5 @@
 
-section 1 ``first objectives
+section 1 ``first objectives``
 
 	- FIRST READ IN TRANSACIONS DATA AND EXPLORE IT
  
@@ -17,7 +17,7 @@ section 1 ``first objectives
  
 		- HOW MANY UNIQUE HOUSEHOLDS AND PRODUCTS ARE THERE IN THE DATA?
 
-section 2 ``COLUMN CREATION
+section 2 ``COLUMN CREATION``
 
 	- create two columns
  
