@@ -1,6 +1,8 @@
 # Explorative-data-analysis-project-with-python
 EDA of a retail dataset
 
+Key objectives
+
 READ IN DATA FROM MULTIPLE CSV FILES
 
 EXPLORE THE DATA(MILLIONS OF ROWS!)
