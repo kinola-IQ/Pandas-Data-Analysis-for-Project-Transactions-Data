@@ -1,4 +1,4 @@
-# Explorative-data-analysis-project-with-python
+# Pandas Data Analysis for Project Transactions
 
 Key objectives
 
